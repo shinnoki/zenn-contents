@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "zenn preview"
+  },
+  "devDependencies": {
+    "zenn-cli": "^0.1.28"
+  }
+}
