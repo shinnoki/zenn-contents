@@ -1,7 +1,9 @@
 {
   "private": true,
   "scripts": {
-    "start": "zenn preview"
+    "start": "zenn preview",
+    "g:article": "zenn new:article --published false --slug",
+    "g:book": "zenn new:book --published false --slug"
   },
   "devDependencies": {
     "zenn-cli": "^0.1.28"
